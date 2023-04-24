@@ -1,4 +1,4 @@
-var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+var topics = ['HTML', 'CSS', 'Git', 'JavaScript', 'wee wee'];
 
 for(var x = 0; x < topics.length; x++)
 {
